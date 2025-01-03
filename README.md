@@ -32,8 +32,6 @@ DynamicAdminDashboard/
 └── index.php # Main entry point
 
 
----
-
 ## ⚙️ Installation & Setup
 1. Clone the repository:  
    ```bash  
@@ -49,8 +47,7 @@ DynamicAdminDashboard/
 User authentication and role-based access control.
 Expanding visualization options with real-time data.
 Integrating APIs for external data sources.
-📄 License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
+
 
 🤝 Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
